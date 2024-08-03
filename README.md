@@ -2,8 +2,8 @@
 ## Tools & Skills
 **PostgreSQL**
 * Filter, summarize, and clean data.
-* [Inner joins](https://github.com/AyrinTabibi/Product-Analysis/blob/main/SQL_Inner_Joins.sql), using primary and foreign keys, to establish meaningful relationships between different tables within the dataset.
-* Utilize [subqueries](https://github.com/AyrinTabibi/Product-Analysis/blob/main/SQL_Subqueries.sql) and [common table expressions](https://github.com/AyrinTabibi/Product-Analysis/blob/main/SQL_CTE.sql) to perform more complex queries.
+* [Inner joins](https://github.com/AyrinTabibi/Video-Rental-Analysis/blob/main/SQL_Inner_Joins.sql), using primary and foreign keys, to establish meaningful relationships between different tables within the dataset.
+* Utilize [subqueries](https://github.com/AyrinTabibi/Video-Rental-Analysis/blob/main/SQL_Subqueries.sql) and [common table expressions](https://github.com/AyrinTabibi/Video-Rental-Analysis/blob/main/SQL_CTE.sql) to perform more complex queries.
 
 
 <p align="center">
